@@ -1,0 +1,1862 @@
+[
+    {
+        "filename": "frame_0003.png",
+        "annotations": {
+            "action_id": "53",
+            "object_id": "53",
+            "handbbox": [
+                1124.297,
+                432.422,
+                282.656,
+                251.016
+            ],
+            "objectbbox": [
+                801.563,
+                596.953,
+                731.953,
+                483.047
+            ]
+        },
+        "timestamp": 0.12,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0024.png",
+        "annotations": {
+            "action_id": "54",
+            "object_id": "54",
+            "handbbox": [
+                1316.25038,
+                0.00025,
+                221.484,
+                805.781
+            ],
+            "objectbbox": [
+                782.578,
+                571.64076,
+                712.969,
+                495.703
+            ]
+        },
+        "timestamp": 0.96,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0032.png",
+        "annotations": {
+            "action_id": "54",
+            "object_id": "54",
+            "handbbox": [
+                1316.25038,
+                0.00025,
+                221.484,
+                805.781
+            ],
+            "objectbbox": [
+                782.578,
+                571.64076,
+                712.969,
+                495.703
+            ]
+        },
+        "timestamp": 1.28,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0012.png",
+        "annotations": {
+            "action_id": "53",
+            "object_id": "53",
+            "handbbox": [
+                1124.297,
+                432.422,
+                282.656,
+                251.016
+            ],
+            "objectbbox": [
+                801.563,
+                596.953,
+                731.953,
+                483.047
+            ]
+        },
+        "timestamp": 0.48,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0017.png",
+        "annotations": {
+            "action_id": "54",
+            "object_id": "54",
+            "handbbox": [
+                1316.25038,
+                0.00025,
+                221.484,
+                805.781
+            ],
+            "objectbbox": [
+                782.578,
+                571.64076,
+                712.969,
+                495.703
+            ]
+        },
+        "timestamp": 0.68,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0085.png",
+        "annotations": {
+            "action_id": "5",
+            "object_id": "5",
+            "handbbox": [
+                1134.844,
+                -2.109,
+                200.39,
+                681.328
+            ],
+            "objectbbox": [
+                1151.719,
+                605.391,
+                170.859,
+                109.687
+            ]
+        },
+        "timestamp": 3.4,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0095.png",
+        "annotations": {
+            "action_id": "5",
+            "object_id": "5",
+            "handbbox": [
+                1134.844,
+                -2.109,
+                200.39,
+                681.328
+            ],
+            "objectbbox": [
+                1151.719,
+                605.391,
+                170.859,
+                109.687
+            ]
+        },
+        "timestamp": 3.8,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0061.png",
+        "annotations": {
+            "action_id": "5",
+            "object_id": "5",
+            "handbbox": [
+                1134.844,
+                -2.109,
+                200.39,
+                681.328
+            ],
+            "objectbbox": [
+                1151.719,
+                605.391,
+                170.859,
+                109.687
+            ]
+        },
+        "timestamp": 2.44,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0055.png",
+        "annotations": {
+            "action_id": "5",
+            "object_id": "5",
+            "handbbox": [
+                1134.844,
+                -2.109,
+                200.39,
+                681.328
+            ],
+            "objectbbox": [
+                1151.719,
+                605.391,
+                170.859,
+                109.687
+            ]
+        },
+        "timestamp": 2.2,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0112.png",
+        "annotations": {
+            "action_id": "5",
+            "object_id": "5",
+            "handbbox": [
+                1134.844,
+                -2.109,
+                200.39,
+                681.328
+            ],
+            "objectbbox": [
+                1151.719,
+                605.391,
+                170.859,
+                109.687
+            ]
+        },
+        "timestamp": 4.48,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0123.png",
+        "annotations": {
+            "action_id": "5",
+            "object_id": "5",
+            "handbbox": [
+                1134.844,
+                -2.109,
+                200.39,
+                681.328
+            ],
+            "objectbbox": [
+                1151.719,
+                605.391,
+                170.859,
+                109.687
+            ]
+        },
+        "timestamp": 4.92,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0063.png",
+        "annotations": {
+            "action_id": "5",
+            "object_id": "5",
+            "handbbox": [
+                1134.844,
+                -2.109,
+                200.39,
+                681.328
+            ],
+            "objectbbox": [
+                1151.719,
+                605.391,
+                170.859,
+                109.687
+            ]
+        },
+        "timestamp": 2.52,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0081.png",
+        "annotations": {
+            "action_id": "5",
+            "object_id": "5",
+            "handbbox": [
+                1134.844,
+                -2.109,
+                200.39,
+                681.328
+            ],
+            "objectbbox": [
+                1151.719,
+                605.391,
+                170.859,
+                109.687
+            ]
+        },
+        "timestamp": 3.24,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0134.png",
+        "annotations": {
+            "action_id": "54",
+            "object_id": "54",
+            "handbbox": [
+                1052.5785,
+                10.54713,
+                194.062,
+                795.234
+            ],
+            "objectbbox": [
+                1037.813,
+                725.625,
+                156.093,
+                145.547
+            ]
+        },
+        "timestamp": 5.36,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0157.png",
+        "annotations": {
+            "action_id": "54",
+            "object_id": "54",
+            "handbbox": [
+                1052.5785,
+                10.54713,
+                194.062,
+                795.234
+            ],
+            "objectbbox": [
+                1037.813,
+                725.625,
+                156.093,
+                145.547
+            ]
+        },
+        "timestamp": 6.28,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0163.png",
+        "annotations": {
+            "action_id": "54",
+            "object_id": "54",
+            "handbbox": [
+                1052.5785,
+                10.54713,
+                194.062,
+                795.234
+            ],
+            "objectbbox": [
+                1037.813,
+                725.625,
+                156.093,
+                145.547
+            ]
+        },
+        "timestamp": 6.52,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0176.png",
+        "annotations": {
+            "action_id": "54",
+            "object_id": "54",
+            "handbbox": [
+                1052.5785,
+                10.54713,
+                194.062,
+                795.234
+            ],
+            "objectbbox": [
+                1037.813,
+                725.625,
+                156.093,
+                145.547
+            ]
+        },
+        "timestamp": 7.04,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0138.png",
+        "annotations": {
+            "action_id": "54",
+            "object_id": "54",
+            "handbbox": [
+                1052.5785,
+                10.54713,
+                194.062,
+                795.234
+            ],
+            "objectbbox": [
+                1037.813,
+                725.625,
+                156.093,
+                145.547
+            ]
+        },
+        "timestamp": 5.52,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0129.png",
+        "annotations": {
+            "action_id": "54",
+            "object_id": "54",
+            "handbbox": [
+                1052.5785,
+                10.54713,
+                194.062,
+                795.234
+            ],
+            "objectbbox": [
+                1037.813,
+                725.625,
+                156.093,
+                145.547
+            ]
+        },
+        "timestamp": 5.16,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0139.png",
+        "annotations": {
+            "action_id": "54",
+            "object_id": "54",
+            "handbbox": [
+                1052.5785,
+                10.54713,
+                194.062,
+                795.234
+            ],
+            "objectbbox": [
+                1037.813,
+                725.625,
+                156.093,
+                145.547
+            ]
+        },
+        "timestamp": 5.56,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0237.png",
+        "annotations": {
+            "action_id": "9",
+            "object_id": "9",
+            "handbbox": [
+                1145.391,
+                4.219,
+                381.797,
+                668.672
+            ],
+            "objectbbox": [
+                890.156,
+                358.594,
+                641.25,
+                459.844
+            ]
+        },
+        "timestamp": 9.48,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0252.png",
+        "annotations": {
+            "action_id": "9",
+            "object_id": "9",
+            "handbbox": [
+                1145.391,
+                4.219,
+                381.797,
+                668.672
+            ],
+            "objectbbox": [
+                890.156,
+                358.594,
+                641.25,
+                459.844
+            ]
+        },
+        "timestamp": 10.08,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0339.png",
+        "annotations": {
+            "action_id": "3",
+            "object_id": "1",
+            "handbbox": [
+                1130.625,
+                208.828,
+                392.344,
+                571.641
+            ],
+            "objectbbox": [
+                923.90612,
+                367.03138,
+                656.016,
+                411.328
+            ]
+        },
+        "timestamp": 13.56,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0223.png",
+        "annotations": {
+            "action_id": "9",
+            "object_id": "9",
+            "handbbox": [
+                1145.391,
+                4.219,
+                381.797,
+                668.672
+            ],
+            "objectbbox": [
+                890.156,
+                358.594,
+                641.25,
+                459.844
+            ]
+        },
+        "timestamp": 8.92,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0220.png",
+        "annotations": {
+            "action_id": "9",
+            "object_id": "9",
+            "handbbox": [
+                1145.391,
+                4.219,
+                381.797,
+                668.672
+            ],
+            "objectbbox": [
+                890.156,
+                358.594,
+                641.25,
+                459.844
+            ]
+        },
+        "timestamp": 8.8,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0306.png",
+        "annotations": {
+            "action_id": "9",
+            "object_id": "9",
+            "handbbox": [
+                1145.391,
+                4.219,
+                381.797,
+                668.672
+            ],
+            "objectbbox": [
+                890.156,
+                358.594,
+                641.25,
+                459.844
+            ]
+        },
+        "timestamp": 12.24,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0265.png",
+        "annotations": {
+            "action_id": "9",
+            "object_id": "9",
+            "handbbox": [
+                1145.391,
+                4.219,
+                381.797,
+                668.672
+            ],
+            "objectbbox": [
+                890.156,
+                358.594,
+                641.25,
+                459.844
+            ]
+        },
+        "timestamp": 10.6,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0325.png",
+        "annotations": {
+            "action_id": "9",
+            "object_id": "9",
+            "handbbox": [
+                1145.391,
+                4.219,
+                381.797,
+                668.672
+            ],
+            "objectbbox": [
+                890.156,
+                358.594,
+                641.25,
+                459.844
+            ]
+        },
+        "timestamp": 13.0,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0212.png",
+        "annotations": {
+            "action_id": "9",
+            "object_id": "9",
+            "handbbox": [
+                1145.391,
+                4.219,
+                381.797,
+                668.672
+            ],
+            "objectbbox": [
+                890.156,
+                358.594,
+                641.25,
+                459.844
+            ]
+        },
+        "timestamp": 8.48,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0230.png",
+        "annotations": {
+            "action_id": "9",
+            "object_id": "9",
+            "handbbox": [
+                1145.391,
+                4.219,
+                381.797,
+                668.672
+            ],
+            "objectbbox": [
+                890.156,
+                358.594,
+                641.25,
+                459.844
+            ]
+        },
+        "timestamp": 9.2,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0232.png",
+        "annotations": {
+            "action_id": "9",
+            "object_id": "9",
+            "handbbox": [
+                1145.391,
+                4.219,
+                381.797,
+                668.672
+            ],
+            "objectbbox": [
+                890.156,
+                358.594,
+                641.25,
+                459.844
+            ]
+        },
+        "timestamp": 9.28,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0227.png",
+        "annotations": {
+            "action_id": "9",
+            "object_id": "9",
+            "handbbox": [
+                1145.391,
+                4.219,
+                381.797,
+                668.672
+            ],
+            "objectbbox": [
+                890.156,
+                358.594,
+                641.25,
+                459.844
+            ]
+        },
+        "timestamp": 9.08,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0335.png",
+        "annotations": {
+            "action_id": "3",
+            "object_id": "1",
+            "handbbox": [
+                1130.625,
+                208.828,
+                392.344,
+                571.641
+            ],
+            "objectbbox": [
+                923.90612,
+                367.03138,
+                656.016,
+                411.328
+            ]
+        },
+        "timestamp": 13.4,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0231.png",
+        "annotations": {
+            "action_id": "9",
+            "object_id": "9",
+            "handbbox": [
+                1145.391,
+                4.219,
+                381.797,
+                668.672
+            ],
+            "objectbbox": [
+                890.156,
+                358.594,
+                641.25,
+                459.844
+            ]
+        },
+        "timestamp": 9.24,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0277.png",
+        "annotations": {
+            "action_id": "9",
+            "object_id": "9",
+            "handbbox": [
+                1145.391,
+                4.219,
+                381.797,
+                668.672
+            ],
+            "objectbbox": [
+                890.156,
+                358.594,
+                641.25,
+                459.844
+            ]
+        },
+        "timestamp": 11.08,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0449.png",
+        "annotations": {
+            "action_id": "21",
+            "object_id": "21",
+            "handbbox": [
+                679.219,
+                2.109,
+                286.875,
+                590.625
+            ],
+            "objectbbox": [
+                468.281,
+                177.188,
+                1309.922,
+                603.281
+            ]
+        },
+        "timestamp": 17.96,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0390.png",
+        "annotations": {
+            "action_id": "21",
+            "object_id": "21",
+            "handbbox": [
+                679.219,
+                2.109,
+                286.875,
+                590.625
+            ],
+            "objectbbox": [
+                468.281,
+                177.188,
+                1309.922,
+                603.281
+            ]
+        },
+        "timestamp": 15.6,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0379.png",
+        "annotations": {
+            "action_id": "21",
+            "object_id": "21",
+            "handbbox": [
+                679.219,
+                2.109,
+                286.875,
+                590.625
+            ],
+            "objectbbox": [
+                468.281,
+                177.188,
+                1309.922,
+                603.281
+            ]
+        },
+        "timestamp": 15.16,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0413.png",
+        "annotations": {
+            "action_id": "21",
+            "object_id": "21",
+            "handbbox": [
+                679.219,
+                2.109,
+                286.875,
+                590.625
+            ],
+            "objectbbox": [
+                468.281,
+                177.188,
+                1309.922,
+                603.281
+            ]
+        },
+        "timestamp": 16.52,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0359.png",
+        "annotations": {
+            "action_id": "21",
+            "object_id": "21",
+            "handbbox": [
+                679.219,
+                2.109,
+                286.875,
+                590.625
+            ],
+            "objectbbox": [
+                468.281,
+                177.188,
+                1309.922,
+                603.281
+            ]
+        },
+        "timestamp": 14.36,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0388.png",
+        "annotations": {
+            "action_id": "21",
+            "object_id": "21",
+            "handbbox": [
+                679.219,
+                2.109,
+                286.875,
+                590.625
+            ],
+            "objectbbox": [
+                468.281,
+                177.188,
+                1309.922,
+                603.281
+            ]
+        },
+        "timestamp": 15.52,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0475.png",
+        "annotations": {
+            "action_id": "21",
+            "object_id": "21",
+            "handbbox": null,
+            "objectbbox": [
+                449.297,
+                124.453,
+                1379.531,
+                691.875
+            ]
+        },
+        "timestamp": 19.0,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0366.png",
+        "annotations": {
+            "action_id": "21",
+            "object_id": "21",
+            "handbbox": [
+                679.219,
+                2.109,
+                286.875,
+                590.625
+            ],
+            "objectbbox": [
+                468.281,
+                177.188,
+                1309.922,
+                603.281
+            ]
+        },
+        "timestamp": 14.64,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0476.png",
+        "annotations": {
+            "action_id": "21",
+            "object_id": "21",
+            "handbbox": null,
+            "objectbbox": [
+                449.297,
+                124.453,
+                1379.531,
+                691.875
+            ]
+        },
+        "timestamp": 19.04,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0392.png",
+        "annotations": {
+            "action_id": "21",
+            "object_id": "21",
+            "handbbox": [
+                679.219,
+                2.109,
+                286.875,
+                590.625
+            ],
+            "objectbbox": [
+                468.281,
+                177.188,
+                1309.922,
+                603.281
+            ]
+        },
+        "timestamp": 15.68,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0446.png",
+        "annotations": {
+            "action_id": "21",
+            "object_id": "21",
+            "handbbox": [
+                679.219,
+                2.109,
+                286.875,
+                590.625
+            ],
+            "objectbbox": [
+                468.281,
+                177.188,
+                1309.922,
+                603.281
+            ]
+        },
+        "timestamp": 17.84,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0410.png",
+        "annotations": {
+            "action_id": "21",
+            "object_id": "21",
+            "handbbox": [
+                679.219,
+                2.109,
+                286.875,
+                590.625
+            ],
+            "objectbbox": [
+                468.281,
+                177.188,
+                1309.922,
+                603.281
+            ]
+        },
+        "timestamp": 16.4,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0403.png",
+        "annotations": {
+            "action_id": "21",
+            "object_id": "21",
+            "handbbox": [
+                679.219,
+                2.109,
+                286.875,
+                590.625
+            ],
+            "objectbbox": [
+                468.281,
+                177.188,
+                1309.922,
+                603.281
+            ]
+        },
+        "timestamp": 16.12,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0535.png",
+        "annotations": {
+            "action_id": "29",
+            "object_id": "29",
+            "handbbox": [
+                377.578,
+                668.672,
+                691.875,
+                392.344
+            ],
+            "objectbbox": [
+                531.563,
+                145.547,
+                980.859,
+                839.531
+            ]
+        },
+        "timestamp": 21.4,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0536.png",
+        "annotations": {
+            "action_id": "29",
+            "object_id": "29",
+            "handbbox": [
+                377.578,
+                668.672,
+                691.875,
+                392.344
+            ],
+            "objectbbox": [
+                531.563,
+                145.547,
+                980.859,
+                839.531
+            ]
+        },
+        "timestamp": 21.44,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0612.png",
+        "annotations": {
+            "action_id": "29",
+            "object_id": "29",
+            "handbbox": [
+                377.578,
+                668.672,
+                691.875,
+                392.344
+            ],
+            "objectbbox": [
+                531.563,
+                145.547,
+                980.859,
+                839.531
+            ]
+        },
+        "timestamp": 24.48,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0619.png",
+        "annotations": {
+            "action_id": "29",
+            "object_id": "29",
+            "handbbox": [
+                377.578,
+                668.672,
+                691.875,
+                392.344
+            ],
+            "objectbbox": [
+                531.563,
+                145.547,
+                980.859,
+                839.531
+            ]
+        },
+        "timestamp": 24.76,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0511.png",
+        "annotations": {
+            "action_id": "29",
+            "object_id": "29",
+            "handbbox": [
+                377.578,
+                668.672,
+                691.875,
+                392.344
+            ],
+            "objectbbox": [
+                531.563,
+                145.547,
+                980.859,
+                839.531
+            ]
+        },
+        "timestamp": 20.44,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0496.png",
+        "annotations": {
+            "action_id": "29",
+            "object_id": "29",
+            "handbbox": [
+                377.578,
+                668.672,
+                691.875,
+                392.344
+            ],
+            "objectbbox": [
+                531.563,
+                145.547,
+                980.859,
+                839.531
+            ]
+        },
+        "timestamp": 19.84,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0570.png",
+        "annotations": {
+            "action_id": "29",
+            "object_id": "29",
+            "handbbox": [
+                377.578,
+                668.672,
+                691.875,
+                392.344
+            ],
+            "objectbbox": [
+                531.563,
+                145.547,
+                980.859,
+                839.531
+            ]
+        },
+        "timestamp": 22.8,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0642.png",
+        "annotations": {
+            "action_id": "29",
+            "object_id": "29",
+            "handbbox": [
+                377.578,
+                668.672,
+                691.875,
+                392.344
+            ],
+            "objectbbox": [
+                531.563,
+                145.547,
+                980.859,
+                839.531
+            ]
+        },
+        "timestamp": 25.68,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0499.png",
+        "annotations": {
+            "action_id": "29",
+            "object_id": "29",
+            "handbbox": [
+                377.578,
+                668.672,
+                691.875,
+                392.344
+            ],
+            "objectbbox": [
+                531.563,
+                145.547,
+                980.859,
+                839.531
+            ]
+        },
+        "timestamp": 19.96,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0620.png",
+        "annotations": {
+            "action_id": "29",
+            "object_id": "29",
+            "handbbox": [
+                377.578,
+                668.672,
+                691.875,
+                392.344
+            ],
+            "objectbbox": [
+                531.563,
+                145.547,
+                980.859,
+                839.531
+            ]
+        },
+        "timestamp": 24.8,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0498.png",
+        "annotations": {
+            "action_id": "29",
+            "object_id": "29",
+            "handbbox": [
+                377.578,
+                668.672,
+                691.875,
+                392.344
+            ],
+            "objectbbox": [
+                531.563,
+                145.547,
+                980.859,
+                839.531
+            ]
+        },
+        "timestamp": 19.92,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0615.png",
+        "annotations": {
+            "action_id": "29",
+            "object_id": "29",
+            "handbbox": [
+                377.578,
+                668.672,
+                691.875,
+                392.344
+            ],
+            "objectbbox": [
+                531.563,
+                145.547,
+                980.859,
+                839.531
+            ]
+        },
+        "timestamp": 24.6,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0540.png",
+        "annotations": {
+            "action_id": "29",
+            "object_id": "29",
+            "handbbox": [
+                377.578,
+                668.672,
+                691.875,
+                392.344
+            ],
+            "objectbbox": [
+                531.563,
+                145.547,
+                980.859,
+                839.531
+            ]
+        },
+        "timestamp": 21.6,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0597.png",
+        "annotations": {
+            "action_id": "29",
+            "object_id": "29",
+            "handbbox": [
+                377.578,
+                668.672,
+                691.875,
+                392.344
+            ],
+            "objectbbox": [
+                531.563,
+                145.547,
+                980.859,
+                839.531
+            ]
+        },
+        "timestamp": 23.88,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0584.png",
+        "annotations": {
+            "action_id": "29",
+            "object_id": "29",
+            "handbbox": [
+                377.578,
+                668.672,
+                691.875,
+                392.344
+            ],
+            "objectbbox": [
+                531.563,
+                145.547,
+                980.859,
+                839.531
+            ]
+        },
+        "timestamp": 23.36,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0525.png",
+        "annotations": {
+            "action_id": "29",
+            "object_id": "29",
+            "handbbox": [
+                377.578,
+                668.672,
+                691.875,
+                392.344
+            ],
+            "objectbbox": [
+                531.563,
+                145.547,
+                980.859,
+                839.531
+            ]
+        },
+        "timestamp": 21.0,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0489.png",
+        "annotations": {
+            "action_id": "29",
+            "object_id": "29",
+            "handbbox": [
+                377.578,
+                668.672,
+                691.875,
+                392.344
+            ],
+            "objectbbox": [
+                531.563,
+                145.547,
+                980.859,
+                839.531
+            ]
+        },
+        "timestamp": 19.56,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0698.png",
+        "annotations": {
+            "action_id": "37",
+            "object_id": "37",
+            "handbbox": [
+                1063.125,
+                251.016,
+                736.172,
+                565.312
+            ],
+            "objectbbox": [
+                664.453,
+                322.734,
+                651.797,
+                603.282
+            ]
+        },
+        "timestamp": 27.92,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0670.png",
+        "annotations": {
+            "action_id": "37",
+            "object_id": "37",
+            "handbbox": [
+                1063.125,
+                251.016,
+                736.172,
+                565.312
+            ],
+            "objectbbox": [
+                664.453,
+                322.734,
+                651.797,
+                603.282
+            ]
+        },
+        "timestamp": 26.8,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0668.png",
+        "annotations": {
+            "action_id": "37",
+            "object_id": "37",
+            "handbbox": [
+                1063.125,
+                251.016,
+                736.172,
+                565.312
+            ],
+            "objectbbox": [
+                664.453,
+                322.734,
+                651.797,
+                603.282
+            ]
+        },
+        "timestamp": 26.72,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0695.png",
+        "annotations": {
+            "action_id": "37",
+            "object_id": "37",
+            "handbbox": [
+                1063.125,
+                251.016,
+                736.172,
+                565.312
+            ],
+            "objectbbox": [
+                664.453,
+                322.734,
+                651.797,
+                603.282
+            ]
+        },
+        "timestamp": 27.8,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0677.png",
+        "annotations": {
+            "action_id": "37",
+            "object_id": "37",
+            "handbbox": [
+                1063.125,
+                251.016,
+                736.172,
+                565.312
+            ],
+            "objectbbox": [
+                664.453,
+                322.734,
+                651.797,
+                603.282
+            ]
+        },
+        "timestamp": 27.08,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0734.png",
+        "annotations": {
+            "action_id": "38",
+            "object_id": "37",
+            "handbbox": [
+                858.516,
+                0,
+                506.24963,
+                767.813
+            ],
+            "objectbbox": [
+                94.922,
+                63.281,
+                1763.437,
+                957.657
+            ]
+        },
+        "timestamp": 29.36,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0744.png",
+        "annotations": {
+            "action_id": "38",
+            "object_id": "37",
+            "handbbox": [
+                858.516,
+                0,
+                506.24963,
+                767.813
+            ],
+            "objectbbox": [
+                94.922,
+                63.281,
+                1763.437,
+                957.657
+            ]
+        },
+        "timestamp": 29.76,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0710.png",
+        "annotations": {
+            "action_id": "38",
+            "object_id": "37",
+            "handbbox": [
+                858.516,
+                0,
+                506.24963,
+                767.813
+            ],
+            "objectbbox": [
+                94.922,
+                63.281,
+                1763.437,
+                957.657
+            ]
+        },
+        "timestamp": 28.4,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0704.png",
+        "annotations": {
+            "action_id": "38",
+            "object_id": "37",
+            "handbbox": [
+                858.516,
+                0,
+                506.24963,
+                767.813
+            ],
+            "objectbbox": [
+                94.922,
+                63.281,
+                1763.437,
+                957.657
+            ]
+        },
+        "timestamp": 28.16,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0761.png",
+        "annotations": {
+            "action_id": "38",
+            "object_id": "37",
+            "handbbox": [
+                858.516,
+                0,
+                506.24963,
+                767.813
+            ],
+            "objectbbox": [
+                94.922,
+                63.281,
+                1763.437,
+                957.657
+            ]
+        },
+        "timestamp": 30.44,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0772.png",
+        "annotations": {
+            "action_id": "38",
+            "object_id": "37",
+            "handbbox": [
+                858.516,
+                0,
+                506.24963,
+                767.813
+            ],
+            "objectbbox": [
+                94.922,
+                63.281,
+                1763.437,
+                957.657
+            ]
+        },
+        "timestamp": 30.88,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0712.png",
+        "annotations": {
+            "action_id": "38",
+            "object_id": "37",
+            "handbbox": [
+                858.516,
+                0,
+                506.24963,
+                767.813
+            ],
+            "objectbbox": [
+                94.922,
+                63.281,
+                1763.437,
+                957.657
+            ]
+        },
+        "timestamp": 28.48,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0730.png",
+        "annotations": {
+            "action_id": "38",
+            "object_id": "37",
+            "handbbox": [
+                858.516,
+                0,
+                506.24963,
+                767.813
+            ],
+            "objectbbox": [
+                94.922,
+                63.281,
+                1763.437,
+                957.657
+            ]
+        },
+        "timestamp": 29.2,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0831.png",
+        "annotations": {
+            "action_id": "45",
+            "object_id": "45",
+            "handbbox": [
+                1149.609,
+                510.469,
+                706.641,
+                386.015
+            ],
+            "objectbbox": [
+                457.734,
+                208.828,
+                750.938,
+                698.203
+            ]
+        },
+        "timestamp": 33.24,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0833.png",
+        "annotations": {
+            "action_id": "45",
+            "object_id": "45",
+            "handbbox": [
+                1149.609,
+                510.469,
+                706.641,
+                386.015
+            ],
+            "objectbbox": [
+                457.734,
+                208.828,
+                750.938,
+                698.203
+            ]
+        },
+        "timestamp": 33.32,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0811.png",
+        "annotations": {
+            "action_id": "45",
+            "object_id": "45",
+            "handbbox": [
+                1149.609,
+                510.469,
+                706.641,
+                386.015
+            ],
+            "objectbbox": [
+                457.734,
+                208.828,
+                750.938,
+                698.203
+            ]
+        },
+        "timestamp": 32.44,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0809.png",
+        "annotations": {
+            "action_id": "45",
+            "object_id": "45",
+            "handbbox": [
+                1149.609,
+                510.469,
+                706.641,
+                386.015
+            ],
+            "objectbbox": [
+                457.734,
+                208.828,
+                750.938,
+                698.203
+            ]
+        },
+        "timestamp": 32.36,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0839.png",
+        "annotations": {
+            "action_id": "45",
+            "object_id": "45",
+            "handbbox": [
+                1149.609,
+                510.469,
+                706.641,
+                386.015
+            ],
+            "objectbbox": [
+                457.734,
+                208.828,
+                750.938,
+                698.203
+            ]
+        },
+        "timestamp": 33.56,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0782.png",
+        "annotations": {
+            "action_id": "45",
+            "object_id": "45",
+            "handbbox": [
+                1149.609,
+                510.469,
+                706.641,
+                386.015
+            ],
+            "objectbbox": [
+                457.734,
+                208.828,
+                750.938,
+                698.203
+            ]
+        },
+        "timestamp": 31.28,
+        "width": 1280,
+        "height": 720
+    },
+    {
+        "filename": "frame_0788.png",
+        "annotations": {
+            "action_id": "45",
+            "object_id": "45",
+            "handbbox": [
+                1149.609,
+                510.469,
+                706.641,
+                386.015
+            ],
+            "objectbbox": [
+                457.734,
+                208.828,
+                750.938,
+                698.203
+            ]
+        },
+        "timestamp": 31.52,
+        "width": 1280,
+        "height": 720
+    }
+]
